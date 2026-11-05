@@ -1,7 +1,7 @@
 baseURL: "https://santiagopallares223-hub.github.io/Hugo_Sitio_web/"
 languageCode: "es"
 title: "Mi sitio web práctico"
-publishDir: "html"
+publishDir: "docs"
 
 params:
   description: "Ejercicio de publicación con Hugo y GitHub Pages"
